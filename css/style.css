@@ -29,7 +29,19 @@
 }
 
 .form-menu__button {
-  background-color: #99ff66;
+  background-color: #009900;
   color: #FEFEFE;
+  border: none;
+  display: inline-block;
+  line-height: 40px;
+  padding: 0 15px;
+  -webkit-transition: 0.3s ease all;
+  transition: 0.3s ease all;
+  border-radius: 5px;
+}
+
+.form-menu__button:hover {
+  background-color: #0099ff;
+  cursor: pointer;
 }
 /*# sourceMappingURL=style.css.map */
