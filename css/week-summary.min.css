@@ -1,0 +1,2 @@
+.week-summary{padding:16px;border:1px solid gray;background-color:whitesmoke}.week-summary__description{color:darkgoldenrod;margin-bottom:20px}.week-summary__title{color:aquamarine}.week-summary__title::before{display:inline-block;width:12px;height:12px;background:tomato;border-radius:50%;content:''}.week-summary--special{border-color:darkslateblue}
+/*# sourceMappingURL=week-summary.min.css.map */
